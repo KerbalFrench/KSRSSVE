@@ -6,6 +6,8 @@ License : CC-BY-NC-SA 4.0 International
 
 Include modified files from Spectra, licensed MIT, by Avera9eJoe and files from RSSVE, licensed CC-BY-NC-SA, by PhineasFreak.
 
+The file par_snow.dds in KSRSSVE/Textures/particle come from Sci-Fi Visual Enchancements.
+
 Need : 
 
 Scatterer : https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip151-scatterer-atmospheric-scattering-v00336-08112018/
