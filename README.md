@@ -8,9 +8,13 @@ Include modified files from Spectra, licensed MIT, by Avera9eJoe and files from 
 
 
 
-The file *par_snow.dds* in KSRSSVE/Textures/particle comes from [Sci-Fi Visual Enchancements](https://forum.kerbalspaceprogram.com/index.php?/topic/151190-16sci-fi-visual-enchancements-v-15-high-performance-alt-to-sve/).
+The files *par_snow.dds and par_dust_mars* in KSRSSVE/Textures/particle and *dust_mars.dds* in KSRSSVE/Textures come from [Sci-Fi Visual Enchancements](https://forum.kerbalspaceprogram.com/index.php?/topic/151190-16sci-fi-visual-enchancements-v-15-high-performance-alt-to-sve/).
 
 The texture *snow.dds* in KSRSSVE/Textures/ comes from [Graphics Enhancements Assembly](https://forum.kerbalspaceprogram.com/index.php?/topic/161683-151-graphics-enhancements-assembly-gea/).
+
+The sunflare used in this mod is from [here](https://spacedock.info/mod/997/Cepheus%20Sunflare). All credits go to Thomassino for this wonderful sunflare.
+
+The textures used to make the geysers and the rgb3.dds come from the AVP mod. All credist go to themaster01 and Astronomer.
 
 Need : 
 
