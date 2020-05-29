@@ -90,3 +90,4 @@ C:\Users\kapat\Documents\GitHub\KSRSSVE\src\KSRSSVE\bin\Debug\UnityEngine.CrashR
 C:\Users\kapat\Documents\GitHub\KSRSSVE\src\KSRSSVE\bin\Debug\UnityEngine.PerformanceReportingModule.dll
 C:\Users\kapat\Documents\GitHub\KSRSSVE\src\KSRSSVE\bin\Debug\KSPAssets.XmlSerializers.dll
 C:\Users\kapat\Documents\GitHub\KSRSSVE\src\KSRSSVE\obj\Debug\KSRSSVE.csproj.CopyComplete
+C:\Users\kapat\Documents\GitHub\KSRSSVE\src\KSRSSVE\obj\Debug\KSRSSVE.csprojAssemblyReference.cache
